@@ -20,18 +20,19 @@ button {
 
 /* Navigation */
 
-.navigation-logo {
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
-.logo-web {
-    color: #4d5ae5;
+.logo-studio-header {
+    
+    color: #2e2f42;
 }
 
 .navigation-link {
@@ -45,6 +46,10 @@ button {
 .navigation-link:hover,
 .navigation-link:focus {
     color: #404bbf;
+}
+
+.address {
+    font-style: none;
 }
 
 /* Contacts */
@@ -127,6 +132,7 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .name-title {
@@ -166,16 +172,17 @@ button {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
-.fourth-section-content-card {
+/* .fourth-section-content-card {
     border-bottom: 1px solid #e7e9fc;
     border-left: 1px solid #e7e9fc;
     border-right: 1px solid #e7e9fc;
     padding: 32px 16px;
     width: 360px;
     height: 120px;
-}
+} */
 
 .content-card-title {
     font-weight: 500;
@@ -205,13 +212,7 @@ button {
     background: #2e2f42;
 }
 
-.footer-logo {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+.logo-studio-footer {
     color: #f4f4fd;
 }
 
