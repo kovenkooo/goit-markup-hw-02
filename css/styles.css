@@ -82,12 +82,7 @@ button {
     text-align: center;
 }
 
-.order-service-button {
-    /* border-radius: 4px;
-    padding: 16px 32px;
-    width: 169px;
-    height: 56px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15); */
+.service-button {
     background: #4d5ae5;
     font-weight: 500;
     font-size: 16px;
@@ -96,8 +91,8 @@ button {
     color: #fff;
 }
 
-.order-service-button:hover,
-.order-service-button:focus {
+.service-button:hover,
+.service-button:focus {
     background: #404bbf;
 }
 
@@ -145,11 +140,6 @@ button {
 }
 
 .team-list-item {
-    /* border-radius: 0 0 4px 4px;
-    padding: 0px 0px 32px 0px;
-    width: 264px;
-    height: 380px;
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08); */
     background: #fff;
     background-color: #fff;
 }
@@ -175,15 +165,6 @@ button {
     text-transform: capitalize;
 }
 
-/* .fourth-section-content-card {
-    border-bottom: 1px solid #e7e9fc;
-    border-left: 1px solid #e7e9fc;
-    border-right: 1px solid #e7e9fc;
-    padding: 32px 16px;
-    width: 360px;
-    height: 120px;
-} */
-
 .content-card-title {
     font-weight: 500;
     font-size: 20px;
@@ -201,8 +182,6 @@ button {
 }
 
 .project-card {
-    /* width: 360px;
-    height: 420px; */
     background-color: #fff;
 }
 
